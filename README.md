@@ -5,6 +5,7 @@
 
 <p align="center">Soy un joven 💁‍♂️desarrollador web🖥 con 5 años de experiencia. </p>
 
+<h1>Acerca de mi</h1>
 -🧠 Actualmente estoy aprendiendo: **React y English**<br>
 -✉ Correo: heynerestebanespinosa@gmail.com<br>
 </p>
