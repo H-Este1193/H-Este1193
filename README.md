@@ -1,6 +1,6 @@
 <div id="header" aling="cemter">
 
-<img src="../img/foto.jpg">
+<img src="/img/foto.jpg">
 <h3 aling="center">Hi🙋‍♂️,Name is Esteban Espinosa </h3>
 
 <p>I am 💁‍♂️ a young Web Developer with 5 years of experience. </p>
