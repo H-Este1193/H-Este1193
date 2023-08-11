@@ -5,10 +5,10 @@
 <h4 align="center">Soy un joven 💁‍♂️desarrollador web🖥 con 5 años de experiencia. </h4>
 
 <h1>👤 Acerca de mi:</h1>
--🧡 Interesador en trabajar en Desarrollo web y Mòvil
+-🧡 Interesador en trabajar en Desarrollo web y Mòvil<br>
 -🧠 Actualmente estoy aprendiendo: **React y English**<br>
 
-Contacto:
--📱 Telefono: +57 3016133369
+Contacto:<br>
+-📱 Telefono: +57 3016133369<br>
 -✉ Correo: heynerestebanespinosa@gmail.com<br>
 </p>
