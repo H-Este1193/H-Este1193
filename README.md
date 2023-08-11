@@ -6,7 +6,7 @@
 
 <h1>👤 Acerca de mi:</h1>
 -🧡 Interesado en trabajar en Desarrollo web y Aplicaciones Mòvil<br>
--🧠 Actualmente estoy aprendiendo: **React y English**<br><br>
+-🧠 Actualmente estoy aprendiendo: React y English<br><br>
 
 Contacto:<br>
 -📱 Telefono: +57 3016133369<br>
