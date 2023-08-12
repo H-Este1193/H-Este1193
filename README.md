@@ -13,5 +13,5 @@ Contacto:<br>
 -✉ Correo: heynerestebanespinosa@gmail.com<br>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heyner_lo/) [![LinkedIn](https://www.linkedin.com/in/heynes-esteban-1501911a7/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heyner_lo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heynes-esteban-1501911a7/)
 </p>
