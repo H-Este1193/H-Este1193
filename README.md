@@ -27,6 +27,8 @@ width="40" height="40">
 width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php"
 width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Php"
+width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"
 width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studios"
