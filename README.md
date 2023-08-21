@@ -4,7 +4,7 @@
 <h2 align="center">Hola🙋‍♂️, me llamo Esteban Espinosa👨‍🦰</h2>
 <h4 align="center">Soy Desarrollador web🖥 con 5 años de experiencia.</h4>
 
-👤Acerca de mi:
+👤Acerca de mi:<br>
 -🗣️ Háblame sobre HTML,Css,JavaScript,Python,WordPress y Php<br>
 -🧡 Interesado en trabajar como Desarrollo web y Aplicaciones Móviles<br>
 -🧠 Actualmente estoy aprendiendo: React y English<br>
