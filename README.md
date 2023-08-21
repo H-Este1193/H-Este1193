@@ -25,7 +25,9 @@ width="40" height="40">
 width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"
 width="40" height="40">
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Javascript"
+width="40" height="40">
+
 </div><br><br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heyner_lo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heynes-esteban-1501911a7/)
