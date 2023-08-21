@@ -35,7 +35,7 @@ width="40" height="40">
 width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studios Code"
 width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studios"
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studios"
 width="40" height="40">
 
 
