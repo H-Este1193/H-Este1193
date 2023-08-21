@@ -9,7 +9,7 @@
 -🧡 Interesado en trabajar como Desarrollo web y Aplicaciones Móviles<br>
 -🧠 Actualmente estoy aprendiendo: React y English<br>
 
-Puedes contactar:<br>
+Puedes contactar:<br><br>
 -📱 Teléfono: +57 3016133369<br>
 -✉ Correo: heynerestebanespinosa@gmail.com<br>
 
