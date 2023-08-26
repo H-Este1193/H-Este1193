@@ -2,7 +2,7 @@
 
 <img align="center" width="190" height="200" src="img/foto.jpg" >
 <h2 align="center">Hola🙋‍♂️, me llamo Esteban Espinosa👨‍🦰</h2>
-<h4 align="center">Soy Desarrollador web🖥 con 5 años de experiencia.</h4>
+<h4 align="center">Soy Desarrollador web🖥</h4>
 
 
 👤Acerca de mi:<br><br>
